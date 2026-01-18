@@ -27,7 +27,7 @@ I am currently a **2nd semester CSE student**, learning DSA step by step.
 - Git & GitHub
 
 ## 📅 Study Plan
-- Daily practice of 2–3 problems
+- Daily practice of 1-2 problems
 - Focus on understanding logic over speed
 - Regular revision
 
